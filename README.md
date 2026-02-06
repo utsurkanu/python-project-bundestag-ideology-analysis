@@ -13,12 +13,6 @@ This project examines how political ideology is expressed in speeches from the G
 
 The project treats ideology as **multidimensional**, rather than placing parties on a single left–right scale.
 
----
-
-## Research Questions
-- Do Bundestag speeches reflect party ideology?  
-- How similar are political parties based on the content of their speeches?  
-- Can modern AI-based text methods capture ideological structure in parliamentary discourse?  
 
 ---
 
@@ -33,20 +27,6 @@ The project treats ideology as **multidimensional**, rather than placing parties
 
 ---
 
-## Methods (High-Level)
-- Speeches are classified into six ideological categories using a large language model.  
-- Ideological scores are aggregated at the party level.  
-- Sentence-BERT embeddings and PCA are used to explore ideological similarity and clustering.  
-- Party-level similarities are visualized using cosine similarity networks.
-
----
-
-## Key Findings
-- Party speeches reflect well-known ideological positions.  
-- Ideologically closer parties show greater similarity in speech content.  
-- Ideological differences are gradual and overlapping rather than sharply divided.
-
----
 
 ## Repository Contents
 - `PROJECT_V5.ipynb` – main analysis notebook  
