@@ -43,10 +43,6 @@ The project treats ideology as **multidimensional**, rather than placing parties
 The `report.pdf` contains a detailed interpretation of the results.
 
 ---
-
 ## References
-- Benoit, K., & Laver, M. (2006). *Party policy in modern democracies*.  
-- Threite, J. (2023). *Bundestag-v2 dataset*.  
-- Halterman, L., & Keith, D. (2025). *Codebook LLMs: Evaluating LLMs as Measurement Tools for Political Science Concepts*.  
-- OpenAI ChatGPT (2023). Used as part of methodology for ideological classification and text analysis.  
+A full list of references is provided in `report.pdf`.
 
