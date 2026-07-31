@@ -43,6 +43,16 @@ The project treats ideology as **multidimensional**, rather than placing parties
 The `report.pdf` contains a detailed interpretation of the results.
 
 ---
+## Results
+- Identified ideological profiles for the major German Bundestag parties that closely match their established political positions.
+- Showed that party ideology is multidimensional, with most parties combining several ideological tendencies rather than fitting into a single category.
+- Found that speeches from the same party are generally more similar to each other, while ideologically closer parties share greater similarities in their political discourse.
+- Revealed that Bundestag parties are interconnected through shared ideological elements maintaining distinct political identities.
+- Demonstrated that LLM-based text analysis and sentence embeddings can effectively uncover meaningful ideological patterns in parliamentary speeches.
+
+---
 ## References
 A full list of references is provided in `report.pdf`.
+
+
 
